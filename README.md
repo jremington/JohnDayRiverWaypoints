@@ -13,6 +13,10 @@ When the location data are plotted, it is clear that some have significant error
 
 Have fun!
 
+Note: files with .txt extensions should be renamed .gpx as that format is not supported by Github
+
 [JD_campsites_named.txt](https://github.com/jremington/JohnDayRiverWaypoints/files/6449219/JD_campsites_named.txt)
+
 [JD_campsites_numbered.txt](https://github.com/jremington/JohnDayRiverWaypoints/files/6449220/JD_campsites_numbered.txt)
+
 [JohnDayCampsites_UTM_to_WGS84.xlsx](https://github.com/jremington/JohnDayRiverWaypoints/files/6449221/JohnDayCampsites_UTM_to_WGS84.xlsx)

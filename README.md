@@ -6,6 +6,7 @@ These waypoints (146 of them!) mark officially identified campsites along 111 mi
 If you plan on floating the Wild and Scenic stretches, I highly recommend that you buy this invaluable guide, which has detailed topographical maps of the river, printed on waterproof paper, in a convenient size.
 
 **METHODS**
+
 The location data were originally in UTM, Zone 10 North and were converted to WGS84 degrees using the spreadsheet available at https://giscrack.com/download-excel-template-convert-geographic-coordinates-utm/
 
 The location data were then further converted to waypoints in .gpx file format using the on line converter available at http://www.gcgpx.cz/?lang=en

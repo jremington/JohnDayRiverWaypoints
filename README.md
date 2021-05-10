@@ -13,7 +13,7 @@ When the location data are plotted, it is clear that some have significant error
 
 Have fun!
 
-Note: files with .txt extensions should be renamed .gpx as that format is not supported by Github
+Note: files with .txt extensions should be renamed .gpx for uploading to your device, as .gpx extension is not supported by Github.
 
 [JD_campsites_named.txt](https://github.com/jremington/JohnDayRiverWaypoints/files/6449219/JD_campsites_named.txt)
 

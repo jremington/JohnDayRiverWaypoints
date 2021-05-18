@@ -1,5 +1,5 @@
 # JohnDayRiverWaypoints
-Campsite waypoints for the John Day Wild and Scenic River
+Campsite waypoints with GPS coordinates on the John Day Wild and Scenic River
 
 These waypoints (146 of them!) mark officially identified campsites along 111 miles of the officially designated Wild and Scenic stretches of the John Day River in Central Oregon. The data were scanned from the publication "John Day River Recreation Guide, Kimberly to Tumwater Falls" available from the Bureau of Land Management, and converted to WGS84 decimal degrees. 
 

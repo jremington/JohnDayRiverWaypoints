@@ -7,7 +7,7 @@ If you plan on floating the Wild and Scenic stretches, I highly recommend that y
 
 **METHODS**
 
-The location data were originally scanned in from the BLM river guide in UTM, NAD27 Zone 10 North and were converted to WGS84 degrees using the spreadsheet available at https://giscrack.com/download-excel-template-convert-geographic-coordinates-utm/
+The location data were originally scanned in from the BLM river guide in UTM Northing and Easting, NAD27 Zone 10 North and were converted to WGS84 degrees using the spreadsheet available at https://giscrack.com/download-excel-template-convert-geographic-coordinates-utm/
 
 The location data were then further converted to waypoints in .gpx file format using the on line converter available at http://www.gcgpx.cz/?lang=en
 

@@ -7,7 +7,7 @@ If you plan on floating the Wild and Scenic stretches, I highly recommend that y
 
 **METHODS**
 
-The location data were originally scanned in from the BLM river guide in UTM Northing and Easting, NAD27 Zone 10 North and were converted to WGS84 degrees using the program ExpertGPS. Output files are JD_campsites in .csv or .kml (Google Earth format).
+The location data were originally scanned in from the BLM river guide in UTM Eastting and Northing, NAD27 Zone 10 North and were converted to WGS84 degrees using the program ExpertGPS. Output files are JD_campsites in .csv or .kml (Google Earth format).
 
 Camp sites are **labeled** with River Mile and R or L for right or left bank, going downstream, as shown in the River Guide.
 

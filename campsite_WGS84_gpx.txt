@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2022-05-13T22:55:20.646Z</time>
+  <bounds minlat="44.735188630" minlon="-120.555065330" maxlat="45.448840430" maxlon="-120.038558780"/>
+  <wpt lat="44.786047310" lon="-120.038558780">
+    <name>154.30L</name>
+    <cmt>154.30L</cmt>
+    <desc>154.30L</desc>
+  </wpt>
+  <wpt lat="44.775906000" lon="-120.049491830">
+    <name>153.20R</name>
+    <cmt>153.20R</cmt>
+    <desc>153.20R</desc>
+  </wpt>
+  <wpt lat="44.774948420" lon="-120.050058810">
+    <name>153.15R</name>
+    <cmt>153.15R</cmt>
+    <desc>153.15R</desc>
+  </wpt>
+  <wpt lat="44.771765420" lon="-120.068368730">
+    <name>152.02R</name>
+    <cmt>152.02R</cmt>
+    <desc>152.02R</desc>
+  </wpt>
+  <wpt lat="44.770808620" lon="-120.068619380">
+    <name>152.02L</name>
+    <cmt>152.02L</cmt>
+    <desc>152.02L</desc>
+  </wpt>
+  <wpt lat="44.772153170" lon="-120.070497520">
+    <name>151.86R</name>
+    <cmt>151.86R</cmt>
+    <desc>151.86R</desc>
+  </wpt>
+  <wpt lat="44.747994540" lon="-120.104841560">
+    <name>148.85L</name>
+    <cmt>148.85L</cmt>
+    <desc>148.85L</desc>
+  </wpt>
+  <wpt lat="44.750569870" lon="-120.237044420">
+    <name>139.60L</name>
+    <cmt>139.60L</cmt>
+    <desc>139.60L</desc>
+  </wpt>
+  <wpt lat="44.750101220" lon="-120.245960390">
+    <name>139.15L</name>
+    <cmt>139.15L</cmt>
+    <desc>139.15L</desc>
+  </wpt>
+  <wpt lat="44.750602130" lon="-120.247692580">
+    <name>139.11R</name>
+    <cmt>139.11R</cmt>
+    <desc>139.11R</desc>
+  </wpt>
+  <wpt lat="44.748570400" lon="-120.250795650">
+    <name>138.92R</name>
+    <cmt>138.92R</cmt>
+    <desc>138.92R</desc>
+  </wpt>
+  <wpt lat="44.747178520" lon="-120.250192160">
+    <name>138.91L</name>
+    <cmt>138.91L</cmt>
+    <desc>138.91L</desc>
+  </wpt>
+  <wpt lat="44.747038490" lon="-120.253723220">
+    <name>138.70L</name>
+    <cmt>138.70L</cmt>
+    <desc>138.70L</desc>
+  </wpt>
+  <wpt lat="44.743701720" lon="-120.260967650">
+    <name>138.26R</name>
+    <cmt>138.26R</cmt>
+    <desc>138.26R</desc>
+  </wpt>
+  <wpt lat="44.742987890" lon="-120.261607690">
+    <name>138.18R</name>
+    <cmt>138.18R</cmt>
+    <desc>138.18R</desc>
+  </wpt>
+  <wpt lat="44.740316800" lon="-120.265093680">
+    <name>137.95R</name>
+    <cmt>137.95R</cmt>
+    <desc>137.95R</desc>
+  </wpt>
+  <wpt lat="44.739347880" lon="-120.268991730">
+    <name>137.52R</name>
+    <cmt>137.52R</cmt>
+    <desc>137.52R</desc>
+  </wpt>
+  <wpt lat="44.740950190" lon="-120.274259160">
+    <name>137.25L</name>
+    <cmt>137.25L</cmt>
+    <desc>137.25L</desc>
+  </wpt>
+  <wpt lat="44.742748060" lon="-120.280566100">
+    <name>136.78L</name>
+    <cmt>136.78L</cmt>
+    <desc>136.78L</desc>
+  </wpt>
+  <wpt lat="44.738791310" lon="-120.282633660">
+    <name>136.57L</name>
+    <cmt>136.57L</cmt>
+    <desc>136.57L</desc>
+  </wpt>
+  <wpt lat="44.735188630" lon="-120.295823770">
+    <name>135.84L</name>
+    <cmt>135.84L</cmt>
+    <desc>135.84L</desc>
+  </wpt>
+  <wpt lat="44.744084960" lon="-120.349636560">
+    <name>132.85R</name>
+    <cmt>132.85R</cmt>
+    <desc>132.85R</desc>
+  </wpt>
+  <wpt lat="44.742244640" lon="-120.355291100">
+    <name>132.45L</name>
+    <cmt>132.45L</cmt>
+    <desc>132.45L</desc>
+  </wpt>
+  <wpt lat="44.742484130" lon="-120.359802190">
+    <name>132.07R</name>
+    <cmt>132.07R</cmt>
+    <desc>132.07R</desc>
+  </wpt>
+  <wpt lat="44.742728260" lon="-120.361016320">
+    <name>132.05L</name>
+    <cmt>132.05L</cmt>
+    <desc>132.05L</desc>
+  </wpt>
+  <wpt lat="44.745418180" lon="-120.362498110">
+    <name>131.80R</name>
+    <cmt>131.80R</cmt>
+    <desc>131.80R</desc>
+  </wpt>
+  <wpt lat="44.760357660" lon="-120.375982150">
+    <name>130.05R</name>
+    <cmt>130.05R</cmt>
+    <desc>130.05R</desc>
+  </wpt>
+  <wpt lat="44.760885920" lon="-120.377815620">
+    <name>130.00L</name>
+    <cmt>130.00L</cmt>
+    <desc>130.00L</desc>
+  </wpt>
+  <wpt lat="44.760876110" lon="-120.384449620">
+    <name>129.60L</name>
+    <cmt>129.60L</cmt>
+    <desc>129.60L</desc>
+  </wpt>
+  <wpt lat="44.761809620" lon="-120.384723370">
+    <name>129.60R</name>
+    <cmt>129.60R</cmt>
+    <desc>129.60R</desc>
+  </wpt>
+  <wpt lat="44.798682570" lon="-120.402060470">
+    <name>126.40L</name>
+    <cmt>126.40L</cmt>
+    <desc>126.40L</desc>
+  </wpt>
+  <wpt lat="44.802184860" lon="-120.397338560">
+    <name>126.05R</name>
+    <cmt>126.05R</cmt>
+    <desc>126.05R</desc>
+  </wpt>
+  <wpt lat="44.803020460" lon="-120.394506520">
+    <name>125.77R</name>
+    <cmt>125.77R</cmt>
+    <desc>125.77R</desc>
+  </wpt>
+  <wpt lat="44.801691810" lon="-120.394667510">
+    <name>125.70R</name>
+    <cmt>125.70R</cmt>
+    <desc>125.70R</desc>
+  </wpt>
+  <wpt lat="44.796458650" lon="-120.391388370">
+    <name>125.25L</name>
+    <cmt>125.25L</cmt>
+    <desc>125.25L</desc>
+  </wpt>
+  <wpt lat="44.796318350" lon="-120.390370610">
+    <name>125.20L</name>
+    <cmt>125.20L</cmt>
+    <desc>125.20L</desc>
+  </wpt>
+  <wpt lat="44.809985320" lon="-120.384543780">
+    <name>123.60R</name>
+    <cmt>123.60R</cmt>
+    <desc>123.60R</desc>
+  </wpt>
+  <wpt lat="44.811383330" lon="-120.383089450">
+    <name>123.30R</name>
+    <cmt>123.30R</cmt>
+    <desc>123.30R</desc>
+  </wpt>
+  <wpt lat="44.813738620" lon="-120.377848210">
+    <name>122.90L</name>
+    <cmt>122.90L</cmt>
+    <desc>122.90L</desc>
+  </wpt>
+  <wpt lat="44.815240720" lon="-120.378576870">
+    <name>122.80L</name>
+    <cmt>122.80L</cmt>
+    <desc>122.80L</desc>
+  </wpt>
+  <wpt lat="44.816317240" lon="-120.377630090">
+    <name>122.75R</name>
+    <cmt>122.75R</cmt>
+    <desc>122.75R</desc>
+  </wpt>
+  <wpt lat="44.817575070" lon="-120.381443260">
+    <name>122.55L</name>
+    <cmt>122.55L</cmt>
+    <desc>122.55L</desc>
+  </wpt>
+  <wpt lat="44.818953290" lon="-120.377561120">
+    <name>122.35R</name>
+    <cmt>122.35R</cmt>
+    <desc>122.35R</desc>
+  </wpt>
+  <wpt lat="44.827148070" lon="-120.380035540">
+    <name>121.10R</name>
+    <cmt>121.10R</cmt>
+    <desc>121.10R</desc>
+  </wpt>
+  <wpt lat="44.827280060" lon="-120.380687350">
+    <name>121.07R</name>
+    <cmt>121.07R</cmt>
+    <desc>121.07R</desc>
+  </wpt>
+  <wpt lat="44.827796920" lon="-120.384383030">
+    <name>120.90L</name>
+    <cmt>120.90L</cmt>
+    <desc>120.90L</desc>
+  </wpt>
+  <wpt lat="44.839269940" lon="-120.404284800">
+    <name>119.40R</name>
+    <cmt>119.40R</cmt>
+    <desc>119.40R</desc>
+  </wpt>
+  <wpt lat="44.838902060" lon="-120.407110170">
+    <name>119.30L</name>
+    <cmt>119.30L</cmt>
+    <desc>119.30L</desc>
+  </wpt>
+  <wpt lat="44.948429340" lon="-120.483069380">
+    <name>106.46L</name>
+    <cmt>106.46L</cmt>
+    <desc>106.46L</desc>
+  </wpt>
+  <wpt lat="44.949275750" lon="-120.485529680">
+    <name>106.30L</name>
+    <cmt>106.30L</cmt>
+    <desc>106.30L</desc>
+  </wpt>
+  <wpt lat="44.952003390" lon="-120.487983990">
+    <name>106.00R</name>
+    <cmt>106.00R</cmt>
+    <desc>106.00R</desc>
+  </wpt>
+  <wpt lat="44.967964090" lon="-120.478194850">
+    <name>104.68L</name>
+    <cmt>104.68L</cmt>
+    <desc>104.68L</desc>
+  </wpt>
+  <wpt lat="44.972328230" lon="-120.479335070">
+    <name>104.30L</name>
+    <cmt>104.30L</cmt>
+    <desc>104.30L</desc>
+  </wpt>
+  <wpt lat="44.974096320" lon="-120.483582190">
+    <name>103.94R</name>
+    <cmt>103.94R</cmt>
+    <desc>103.94R</desc>
+  </wpt>
+  <wpt lat="44.975808220" lon="-120.482835100">
+    <name>103.77R</name>
+    <cmt>103.77R</cmt>
+    <desc>103.77R</desc>
+  </wpt>
+  <wpt lat="44.983177740" lon="-120.479024270">
+    <name>103.15L</name>
+    <cmt>103.15L</cmt>
+    <desc>103.15L</desc>
+  </wpt>
+  <wpt lat="45.029472530" lon="-120.487908790">
+    <name>99.58R</name>
+    <cmt>99.58R</cmt>
+    <desc>99.58R</desc>
+  </wpt>
+  <wpt lat="45.060990700" lon="-120.490071780">
+    <name>96.75L</name>
+    <cmt>96.75L</cmt>
+    <desc>96.75L</desc>
+  </wpt>
+  <wpt lat="45.103477790" lon="-120.501899160">
+    <name>92.82R</name>
+    <cmt>92.82R</cmt>
+    <desc>92.82R</desc>
+  </wpt>
+  <wpt lat="45.103498290" lon="-120.500779710">
+    <name>92.80R</name>
+    <cmt>92.80R</cmt>
+    <desc>92.80R</desc>
+  </wpt>
+  <wpt lat="45.104123910" lon="-120.498108510">
+    <name>92.60R</name>
+    <cmt>92.60R</cmt>
+    <desc>92.60R</desc>
+  </wpt>
+  <wpt lat="45.104638440" lon="-120.496942020">
+    <name>92.56R</name>
+    <cmt>92.56R</cmt>
+    <desc>92.56R</desc>
+  </wpt>
+  <wpt lat="45.104703960" lon="-120.490087860">
+    <name>92.06R</name>
+    <cmt>92.06R</cmt>
+    <desc>92.06R</desc>
+  </wpt>
+  <wpt lat="45.107057960" lon="-120.480895800">
+    <name>91.65R</name>
+    <cmt>91.65R</cmt>
+    <desc>91.65R</desc>
+  </wpt>
+  <wpt lat="45.108300730" lon="-120.480103810">
+    <name>91.55R</name>
+    <cmt>91.55R</cmt>
+    <desc>91.55R</desc>
+  </wpt>
+  <wpt lat="45.110838870" lon="-120.476013050">
+    <name>91.15R</name>
+    <cmt>91.15R</cmt>
+    <desc>91.15R</desc>
+  </wpt>
+  <wpt lat="45.107957140" lon="-120.471080820">
+    <name>90.84R</name>
+    <cmt>90.84R</cmt>
+    <desc>90.84R</desc>
+  </wpt>
+  <wpt lat="45.101161620" lon="-120.463411640">
+    <name>90.00L</name>
+    <cmt>90.00L</cmt>
+    <desc>90.00L</desc>
+  </wpt>
+  <wpt lat="45.101672920" lon="-120.461711210">
+    <name>89.97R</name>
+    <cmt>89.97R</cmt>
+    <desc>89.97R</desc>
+  </wpt>
+  <wpt lat="45.104609550" lon="-120.463017340">
+    <name>89.70R</name>
+    <cmt>89.70R</cmt>
+    <desc>89.70R</desc>
+  </wpt>
+  <wpt lat="45.111815820" lon="-120.461210500">
+    <name>89.25L</name>
+    <cmt>89.25L</cmt>
+    <desc>89.25L</desc>
+  </wpt>
+  <wpt lat="45.118929290" lon="-120.459280150">
+    <name>88.701</name>
+    <cmt>88.701</cmt>
+    <desc>88.701</desc>
+  </wpt>
+  <wpt lat="45.121028090" lon="-120.459746390">
+    <name>88.56L</name>
+    <cmt>88.56L</cmt>
+    <desc>88.56L</desc>
+  </wpt>
+  <wpt lat="45.122656800" lon="-120.460932860">
+    <name>88.43L</name>
+    <cmt>88.43L</cmt>
+    <desc>88.43L</desc>
+  </wpt>
+  <wpt lat="45.125952520" lon="-120.464219840">
+    <name>88.15L</name>
+    <cmt>88.15L</cmt>
+    <desc>88.15L</desc>
+  </wpt>
+  <wpt lat="45.142904840" lon="-120.448153520">
+    <name>86.50R</name>
+    <cmt>86.50R</cmt>
+    <desc>86.50R</desc>
+  </wpt>
+  <wpt lat="45.143967780" lon="-120.451006200">
+    <name>86.35L</name>
+    <cmt>86.35L</cmt>
+    <desc>86.35L</desc>
+  </wpt>
+  <wpt lat="45.144703260" lon="-120.452499800">
+    <name>86.25L</name>
+    <cmt>86.25L</cmt>
+    <desc>86.25L</desc>
+  </wpt>
+  <wpt lat="45.179690200" lon="-120.478316650">
+    <name>81.65L</name>
+    <cmt>81.65L</cmt>
+    <desc>81.65L</desc>
+  </wpt>
+  <wpt lat="45.179452120" lon="-120.480987280">
+    <name>81.50L</name>
+    <cmt>81.50L</cmt>
+    <desc>81.50L</desc>
+  </wpt>
+  <wpt lat="45.181771530" lon="-120.488611010">
+    <name>81.10L</name>
+    <cmt>81.10L</cmt>
+    <desc>81.10L</desc>
+  </wpt>
+  <wpt lat="45.184377520" lon="-120.485135930">
+    <name>80.85R</name>
+    <cmt>80.85R</cmt>
+    <desc>80.85R</desc>
+  </wpt>
+  <wpt lat="45.196891300" lon="-120.490517390">
+    <name>79.64L</name>
+    <cmt>79.64L</cmt>
+    <desc>79.64L</desc>
+  </wpt>
+  <wpt lat="45.195947260" lon="-120.501648010">
+    <name>79.05R</name>
+    <cmt>79.05R</cmt>
+    <desc>79.05R</desc>
+  </wpt>
+  <wpt lat="45.197326950" lon="-120.510410720">
+    <name>78.57L</name>
+    <cmt>78.57L</cmt>
+    <desc>78.57L</desc>
+  </wpt>
+  <wpt lat="45.197780130" lon="-120.511791450">
+    <name>78.50L</name>
+    <cmt>78.50L</cmt>
+    <desc>78.50L</desc>
+  </wpt>
+  <wpt lat="45.201624740" lon="-120.519276140">
+    <name>78.00R</name>
+    <cmt>78.00R</cmt>
+    <desc>78.00R</desc>
+  </wpt>
+  <wpt lat="45.204880050" lon="-120.522025070">
+    <name>77.70L</name>
+    <cmt>77.70L</cmt>
+    <desc>77.70L</desc>
+  </wpt>
+  <wpt lat="45.204763060" lon="-120.525761050">
+    <name>77.50R</name>
+    <cmt>77.50R</cmt>
+    <desc>77.50R</desc>
+  </wpt>
+  <wpt lat="45.205069440" lon="-120.528268990">
+    <name>77.36R</name>
+    <cmt>77.36R</cmt>
+    <desc>77.36R</desc>
+  </wpt>
+  <wpt lat="45.206039620" lon="-120.530671820">
+    <name>77.15R</name>
+    <cmt>77.15R</cmt>
+    <desc>77.15R</desc>
+  </wpt>
+  <wpt lat="45.210712890" lon="-120.534901180">
+    <name>76.63L</name>
+    <cmt>76.63L</cmt>
+    <desc>76.63L</desc>
+  </wpt>
+  <wpt lat="45.216868140" lon="-120.538150260">
+    <name>75.60R</name>
+    <cmt>75.60R</cmt>
+    <desc>75.60R</desc>
+  </wpt>
+  <wpt lat="45.216365530" lon="-120.534465770">
+    <name>75.40R</name>
+    <cmt>75.40R</cmt>
+    <desc>75.40R</desc>
+  </wpt>
+  <wpt lat="45.217554040" lon="-120.526989120">
+    <name>75.00L</name>
+    <cmt>75.00L</cmt>
+    <desc>75.00L</desc>
+  </wpt>
+  <wpt lat="45.224161520" lon="-120.528664100">
+    <name>74.40L</name>
+    <cmt>74.40L</cmt>
+    <desc>74.40L</desc>
+  </wpt>
+  <wpt lat="45.220380050" lon="-120.541131890">
+    <name>73.65R</name>
+    <cmt>73.65R</cmt>
+    <desc>73.65R</desc>
+  </wpt>
+  <wpt lat="45.224974360" lon="-120.544220110">
+    <name>73.25R</name>
+    <cmt>73.25R</cmt>
+    <desc>73.25R</desc>
+  </wpt>
+  <wpt lat="45.239974300" lon="-120.548975940">
+    <name>72.00R</name>
+    <cmt>72.00R</cmt>
+    <desc>72.00R</desc>
+  </wpt>
+  <wpt lat="45.242675120" lon="-120.550669090">
+    <name>71.80R</name>
+    <cmt>71.80R</cmt>
+    <desc>71.80R</desc>
+  </wpt>
+  <wpt lat="45.243105500" lon="-120.551848340">
+    <name>71.79L</name>
+    <cmt>71.79L</cmt>
+    <desc>71.79L</desc>
+  </wpt>
+  <wpt lat="45.252573380" lon="-120.553862730">
+    <name>70.97R</name>
+    <cmt>70.97R</cmt>
+    <desc>70.97R</desc>
+  </wpt>
+  <wpt lat="45.253566700" lon="-120.552749540">
+    <name>70.92L</name>
+    <cmt>70.92L</cmt>
+    <desc>70.92L</desc>
+  </wpt>
+  <wpt lat="45.257298990" lon="-120.534605670">
+    <name>69.85L</name>
+    <cmt>69.85L</cmt>
+    <desc>69.85L</desc>
+  </wpt>
+  <wpt lat="45.262201580" lon="-120.544475670">
+    <name>69.07R</name>
+    <cmt>69.07R</cmt>
+    <desc>69.07R</desc>
+  </wpt>
+  <wpt lat="45.263410180" lon="-120.546679680">
+    <name>68.85R</name>
+    <cmt>68.85R</cmt>
+    <desc>68.85R</desc>
+  </wpt>
+  <wpt lat="45.276231190" lon="-120.540950680">
+    <name>67.59L</name>
+    <cmt>67.59L</cmt>
+    <desc>67.59L</desc>
+  </wpt>
+  <wpt lat="45.277131400" lon="-120.541370760">
+    <name>67.52L</name>
+    <cmt>67.52L</cmt>
+    <desc>67.52L</desc>
+  </wpt>
+  <wpt lat="45.280029860" lon="-120.550999470">
+    <name>66.95L</name>
+    <cmt>66.95L</cmt>
+    <desc>66.95L</desc>
+  </wpt>
+  <wpt lat="45.281251220" lon="-120.555065330">
+    <name>66.85R</name>
+    <cmt>66.85R</cmt>
+    <desc>66.85R</desc>
+  </wpt>
+  <wpt lat="45.298350780" lon="-120.547353470">
+    <name>65.15R</name>
+    <cmt>65.15R</cmt>
+    <desc>65.15R</desc>
+  </wpt>
+  <wpt lat="45.296248640" lon="-120.535429940">
+    <name>63.85L</name>
+    <cmt>63.85L</cmt>
+    <desc>63.85L</desc>
+  </wpt>
+  <wpt lat="45.296143670" lon="-120.529325370">
+    <name>63.47L</name>
+    <cmt>63.47L</cmt>
+    <desc>63.47L</desc>
+  </wpt>
+  <wpt lat="45.312511460" lon="-120.540299800">
+    <name>61.71R</name>
+    <cmt>61.71R</cmt>
+    <desc>61.71R</desc>
+  </wpt>
+  <wpt lat="45.313698560" lon="-120.540248420">
+    <name>61.65R</name>
+    <cmt>61.65R</cmt>
+    <desc>61.65R</desc>
+  </wpt>
+  <wpt lat="45.314971050" lon="-120.540818480">
+    <name>61.60L</name>
+    <cmt>61.60L</cmt>
+    <desc>61.60L</desc>
+  </wpt>
+  <wpt lat="45.316816670" lon="-120.530825210">
+    <name>61.05R</name>
+    <cmt>61.05R</cmt>
+    <desc>61.05R</desc>
+  </wpt>
+  <wpt lat="45.320088770" lon="-120.528539440">
+    <name>60.75L</name>
+    <cmt>60.75L</cmt>
+    <desc>60.75L</desc>
+  </wpt>
+  <wpt lat="45.326803610" lon="-120.529357470">
+    <name>60.23L</name>
+    <cmt>60.23L</cmt>
+    <desc>60.23L</desc>
+  </wpt>
+  <wpt lat="45.327372910" lon="-120.539043770">
+    <name>59.65L</name>
+    <cmt>59.65L</cmt>
+    <desc>59.65L</desc>
+  </wpt>
+  <wpt lat="45.330029810" lon="-120.539528430">
+    <name>59.35R</name>
+    <cmt>59.35R</cmt>
+    <desc>59.35R</desc>
+  </wpt>
+  <wpt lat="45.330780260" lon="-120.535093140">
+    <name>59.10R</name>
+    <cmt>59.10R</cmt>
+    <desc>59.10R</desc>
+  </wpt>
+  <wpt lat="45.332819240" lon="-120.531558860">
+    <name>58.90L</name>
+    <cmt>58.90L</cmt>
+    <desc>58.90L</desc>
+  </wpt>
+  <wpt lat="45.339641110" lon="-120.531083580">
+    <name>58.35L</name>
+    <cmt>58.35L</cmt>
+    <desc>58.35L</desc>
+  </wpt>
+  <wpt lat="45.346361460" lon="-120.543007570">
+    <name>57.40R</name>
+    <cmt>57.40R</cmt>
+    <desc>57.40R</desc>
+  </wpt>
+  <wpt lat="45.347159310" lon="-120.542436890">
+    <name>57.33R</name>
+    <cmt>57.33R</cmt>
+    <desc>57.33R</desc>
+  </wpt>
+  <wpt lat="45.348141890" lon="-120.541666700">
+    <name>57.25R</name>
+    <cmt>57.25R</cmt>
+    <desc>57.25R</desc>
+  </wpt>
+  <wpt lat="45.370581140" lon="-120.534921870">
+    <name>55.45L</name>
+    <cmt>55.45L</cmt>
+    <desc>55.45L</desc>
+  </wpt>
+  <wpt lat="45.369938850" lon="-120.533940920">
+    <name>55.44R</name>
+    <cmt>55.44R</cmt>
+    <desc>55.44R</desc>
+  </wpt>
+  <wpt lat="45.373222240" lon="-120.524692230">
+    <name>54.78L</name>
+    <cmt>54.78L</cmt>
+    <desc>54.78L</desc>
+  </wpt>
+  <wpt lat="45.374249510" lon="-120.524328100">
+    <name>54.70L</name>
+    <cmt>54.70L</cmt>
+    <desc>54.70L</desc>
+  </wpt>
+  <wpt lat="45.375012940" lon="-120.524665150">
+    <name>54.65L</name>
+    <cmt>54.65L</cmt>
+    <desc>54.65L</desc>
+  </wpt>
+  <wpt lat="45.377088750" lon="-120.521598620">
+    <name>54.38R</name>
+    <cmt>54.38R</cmt>
+    <desc>54.38R</desc>
+  </wpt>
+  <wpt lat="45.387762570" lon="-120.525245320">
+    <name>52.05L</name>
+    <cmt>52.05L</cmt>
+    <desc>52.05L</desc>
+  </wpt>
+  <wpt lat="45.396942640" lon="-120.522276290">
+    <name>51.20L</name>
+    <cmt>51.20L</cmt>
+    <desc>51.20L</desc>
+  </wpt>
+  <wpt lat="45.398127120" lon="-120.525009850">
+    <name>51.05L</name>
+    <cmt>51.05L</cmt>
+    <desc>51.05L</desc>
+  </wpt>
+  <wpt lat="45.417997700" lon="-120.495089340">
+    <name>48.25R</name>
+    <cmt>48.25R</cmt>
+    <desc>48.25R</desc>
+  </wpt>
+  <wpt lat="45.416228610" lon="-120.489952970">
+    <name>47.95R</name>
+    <cmt>47.95R</cmt>
+    <desc>47.95R</desc>
+  </wpt>
+  <wpt lat="45.418555680" lon="-120.483625220">
+    <name>47.60R</name>
+    <cmt>47.60R</cmt>
+    <desc>47.60R</desc>
+  </wpt>
+  <wpt lat="45.422564130" lon="-120.483344780">
+    <name>47.38R</name>
+    <cmt>47.38R</cmt>
+    <desc>47.38R</desc>
+  </wpt>
+  <wpt lat="45.423703980" lon="-120.484418980">
+    <name>47.30R</name>
+    <cmt>47.30R</cmt>
+    <desc>47.30R</desc>
+  </wpt>
+  <wpt lat="45.428001770" lon="-120.507174560">
+    <name>46.08L</name>
+    <cmt>46.08L</cmt>
+    <desc>46.08L</desc>
+  </wpt>
+  <wpt lat="45.429105560" lon="-120.505783640">
+    <name>46.02R</name>
+    <cmt>46.02R</cmt>
+    <desc>46.02R</desc>
+  </wpt>
+  <wpt lat="45.434566970" lon="-120.498268190">
+    <name>45.43L</name>
+    <cmt>45.43L</cmt>
+    <desc>45.43L</desc>
+  </wpt>
+  <wpt lat="45.438290980" lon="-120.482185010">
+    <name>44.47R</name>
+    <cmt>44.47R</cmt>
+    <desc>44.47R</desc>
+  </wpt>
+  <wpt lat="45.448840430" lon="-120.495271040">
+    <name>43.27R</name>
+    <cmt>43.27R</cmt>
+    <desc>43.27R</desc>
+  </wpt>
+</gpx>

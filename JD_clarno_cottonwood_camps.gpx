@@ -1,0 +1,1828 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2024-03-12T22:32:44Z</time>
+    <bounds maxlat="45.447055008262396" maxlon="-120.44989896006882" minlat="44.946644995361567" minlon="-120.55395198985934" />
+  </metadata>
+
+  <wpt lat="45.05046458914876" lon="-120.48673080280423">
+    <ele>352.686767578125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>002</name>
+    <cmt>14-MAY-23 8:54:07AM</cmt>
+    <desc>14-MAY-23 8:54:07AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.9813930131495" lon="-120.47791899181902">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>10315L</name>
+    <cmt>44.98139331-120.4779193</cmt>
+    <desc>44.98139331-120.4779193</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.974023979157209" lon="-120.48172999173403">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>10377R</name>
+    <cmt>44.97402385-120.4817301</cmt>
+    <desc>44.97402385-120.4817301</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.972311975434422" lon="-120.48247698694468">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>10394R</name>
+    <cmt>44.97231196-120.4824772</cmt>
+    <desc>44.97231196-120.4824772</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.97054398059845" lon="-120.47822996042669">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>10430L</name>
+    <cmt>44.97054383-120.4782302</cmt>
+    <desc>44.97054383-120.4782302</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.966180026531219" lon="-120.47709002159536">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>10468L</name>
+    <cmt>44.96617969-120.4770901</cmt>
+    <desc>44.96617969-120.4770901</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.950219038873911" lon="-120.4868789948523">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>10600R</name>
+    <cmt>44.95021912-120.4868792</cmt>
+    <desc>44.95021912-120.4868792</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.94749098084867" lon="-120.48442502506077">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>10630L</name>
+    <cmt>44.94749147-120.484425</cmt>
+    <desc>44.94749147-120.484425</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.946644995361567" lon="-120.48196502029896">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>10646L</name>
+    <cmt>44.94664504-120.4819648</cmt>
+    <desc>44.94664504-120.4819648</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.447055008262396" lon="-120.49415700137615">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>4327R</name>
+    <cmt>45.44705486-120.4941571</cmt>
+    <desc>45.44705486-120.4941571</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.436504958197474" lon="-120.48107201233506">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>4447R</name>
+    <cmt>45.43650532-120.4810717</cmt>
+    <desc>45.43650532-120.4810717</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.432780962437391" lon="-120.49715403467417">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>4543L</name>
+    <cmt>45.43278146-120.4971544</cmt>
+    <desc>45.43278146-120.4971544</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.42731998488307" lon="-120.50467000342906">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>4602R</name>
+    <cmt>45.42732013-120.5046697</cmt>
+    <desc>45.42732013-120.5046697</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.396341979503632" lon="-120.52389599382877">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5105L</name>
+    <cmt>45.39634195-120.5238958</cmt>
+    <desc>45.39634195-120.5238958</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.395157029852271" lon="-120.52116198465228">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5120L</name>
+    <cmt>45.39515745-120.5211624</cmt>
+    <desc>45.39515745-120.5211624</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.385977001860738" lon="-120.52413202822208">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5205L</name>
+    <cmt>45.38597743-120.5241315</cmt>
+    <desc>45.38597743-120.5241315</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.37530398927629" lon="-120.52048497833312">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5438R</name>
+    <cmt>45.37530361-120.5204851</cmt>
+    <desc>45.37530361-120.5204851</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.372464032843709" lon="-120.52321496419609">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5470L</name>
+    <cmt>45.3724644-120.5232145</cmt>
+    <desc>45.3724644-120.5232145</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.3714369982481" lon="-120.52357899025083">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5478L</name>
+    <cmt>45.37143714-120.5235787</cmt>
+    <desc>45.37143714-120.5235787</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.368153974413872" lon="-120.53282699547708">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5544R</name>
+    <cmt>45.36815384-120.5328271</cmt>
+    <desc>45.36815384-120.5328271</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.346357002854347" lon="-120.54055301472545">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5725R</name>
+    <cmt>45.34635701-120.540553</cmt>
+    <desc>45.34635701-120.540553</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.345373973250389" lon="-120.54132297635078">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5733R</name>
+    <cmt>45.34537444-120.5413232</cmt>
+    <desc>45.34537444-120.5413232</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.344577021896839" lon="-120.54189403541386">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5740R</name>
+    <cmt>45.3445766-120.5418939</cmt>
+    <desc>45.3445766-120.5418939</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.33785599283874" lon="-120.52997002378106">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5835L</name>
+    <cmt>45.33785616-120.5299704</cmt>
+    <desc>45.33785616-120.5299704</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.331033961847425" lon="-120.53044603206217">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5890L</name>
+    <cmt>45.33103431-120.5304458</cmt>
+    <desc>45.33103431-120.5304458</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.328994980081916" lon="-120.53398001007736">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5910R</name>
+    <cmt>45.32899537-120.53398</cmt>
+    <desc>45.32899537-120.53398</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.328244967386127" lon="-120.53841495886445">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>5935R</name>
+    <cmt>45.32824496-120.5384151</cmt>
+    <desc>45.32824496-120.5384151</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.325019024312496" lon="-120.52824502810836">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6023L</name>
+    <cmt>45.32501868-120.5282446</cmt>
+    <desc>45.32501868-120.5282446</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.318304030224681" lon="-120.52742703817785">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6075L</name>
+    <cmt>45.31830385-120.5274267</cmt>
+    <desc>45.31830385-120.5274267</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.315031986683607" lon="-120.52971303462982">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6105R</name>
+    <cmt>45.31503178-120.5297125</cmt>
+    <desc>45.31503178-120.5297125</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.311914002522826" lon="-120.53913496434689">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6165R</name>
+    <cmt>45.31191376-120.5391354</cmt>
+    <desc>45.31191376-120.5391354</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.310727041214705" lon="-120.53918701596558">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6171R</name>
+    <cmt>45.31072667-120.5391868</cmt>
+    <desc>45.31072667-120.5391868</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.294359028339386" lon="-120.52821300923824">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6347L</name>
+    <cmt>45.29435883-120.528213</cmt>
+    <desc>45.29435883-120.528213</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.294463969767094" lon="-120.53431696258485">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6385L</name>
+    <cmt>45.29446385-120.5343174</cmt>
+    <desc>45.29446385-120.5343174</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.279466984793544" lon="-120.55395198985934">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6685R</name>
+    <cmt>45.27946665-120.5539524</cmt>
+    <desc>45.27946665-120.5539524</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.278244987130165" lon="-120.54988701827824">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6695L</name>
+    <cmt>45.27824526-120.5498867</cmt>
+    <desc>45.27824526-120.5498867</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.275347027927637" lon="-120.54025797173381">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6752L</name>
+    <cmt>45.27534671-120.5402584</cmt>
+    <desc>45.27534671-120.5402584</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.274446979165077" lon="-120.53983803838491">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6759L</name>
+    <cmt>45.27444651-120.5398383</cmt>
+    <desc>45.27444651-120.5398383</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.261626020073891" lon="-120.54556698538363">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6885R</name>
+    <cmt>45.26162558-120.5455673</cmt>
+    <desc>45.26162558-120.5455673</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.255514020100236" lon="-120.53349402733147">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>6985L</name>
+    <cmt>45.2555143-120.5334939</cmt>
+    <desc>45.2555143-120.5334939</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.2413210272789" lon="-120.55073602125049">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7179L</name>
+    <cmt>45.241321-120.5507362</cmt>
+    <desc>45.241321-120.5507362</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.2408910356462" lon="-120.54955702275038">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7180R</name>
+    <cmt>45.24089062-120.549557</cmt>
+    <desc>45.24089062-120.549557</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.22318996489048" lon="-120.54310899227858">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7325R</name>
+    <cmt>45.22318985-120.5431086</cmt>
+    <desc>45.22318985-120.5431086</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.218596011400223" lon="-120.54002101533115">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7365R</name>
+    <cmt>45.21859551-120.5400205</cmt>
+    <desc>45.21859551-120.5400205</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.222377004101872" lon="-120.52755301818252">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7440L</name>
+    <cmt>45.22237687-120.5275531</cmt>
+    <desc>45.22237687-120.5275531</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.215768963098526" lon="-120.52587797865272">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7500L</name>
+    <cmt>45.21576939-120.5258783</cmt>
+    <desc>45.21576939-120.5258783</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.214580995962024" lon="-120.53335497155786">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7540R</name>
+    <cmt>45.21458096-120.5333547</cmt>
+    <desc>45.21458096-120.5333547</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.215083993971348" lon="-120.53703898563981">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7560R</name>
+    <cmt>45.21508359-120.5370391</cmt>
+    <desc>45.21508359-120.5370391</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.208927989006042" lon="-120.53378999233246">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7663L</name>
+    <cmt>45.20892833-120.5337902</cmt>
+    <desc>45.20892833-120.5337902</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.204254994168878" lon="-120.52956098690629">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7715R</name>
+    <cmt>45.20425504-120.5295611</cmt>
+    <desc>45.20425504-120.5295611</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.203285040333867" lon="-120.52715797908604">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7736R</name>
+    <cmt>45.20328484-120.5271583</cmt>
+    <desc>45.20328484-120.5271583</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.202978011220694" lon="-120.52465103566647">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7750R</name>
+    <cmt>45.20297843-120.5246505</cmt>
+    <desc>45.20297843-120.5246505</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.203095022588968" lon="-120.52091496996582">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7770L</name>
+    <cmt>45.20309539-120.5209146</cmt>
+    <desc>45.20309539-120.5209146</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.199839994311333" lon="-120.51816604100168">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7800R</name>
+    <cmt>45.19984007-120.5181659</cmt>
+    <desc>45.19984007-120.5181659</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.195542005822062" lon="-120.50930100493133">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7857L</name>
+    <cmt>45.1955422-120.5093008</cmt>
+    <desc>45.1955422-120.5093008</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.1941620092839" lon="-120.50053797662258">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>7905R</name>
+    <cmt>45.19416244-120.5005384</cmt>
+    <desc>45.19416244-120.5005384</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.182592971250415" lon="-120.48402696847916">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8085R</name>
+    <cmt>45.18259259-120.4840271</cmt>
+    <desc>45.18259259-120.4840271</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.177667010575533" lon="-120.47987901605666">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8150L</name>
+    <cmt>45.17766716-120.4798787</cmt>
+    <desc>45.17766716-120.4798787</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.177904972806573" lon="-120.47720803879201">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8165L</name>
+    <cmt>45.17790522-120.4772082</cmt>
+    <desc>45.17790522-120.4772082</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.142917986959219" lon="-120.45139303430915">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8625L</name>
+    <cmt>45.14291815-120.4513928</cmt>
+    <desc>45.14291815-120.4513928</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.142182977870107" lon="-120.44989896006882">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8635L</name>
+    <cmt>45.14218265-120.4498993</cmt>
+    <desc>45.14218265-120.4498993</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.120871989056468" lon="-120.459825983271">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8843L</name>
+    <cmt>45.12087183-120.459826</cmt>
+    <desc>45.12087183-120.459826</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.119242966175079" lon="-120.45864002779126">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8856L</name>
+    <cmt>45.1192431-120.4586396</cmt>
+    <desc>45.1192431-120.4586396</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.117143969982862" lon="-120.45817298814654">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8870L</name>
+    <cmt>45.11714431-120.4581734</cmt>
+    <desc>45.11714431-120.4581734</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.102824997156858" lon="-120.46191098168492">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8970R</name>
+    <cmt>45.10282464-120.4619107</cmt>
+    <desc>45.10282464-120.4619107</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.099887978285551" lon="-120.46060499735177">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>8997R</name>
+    <cmt>45.09988801-120.4606047</cmt>
+    <desc>45.09988801-120.4606047</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.099377017468214" lon="-120.46230501495302">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9000L</name>
+    <cmt>45.09937672-120.4623051</cmt>
+    <desc>45.09937672-120.4623051</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.106171974912286" lon="-120.46997403725982">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9084R</name>
+    <cmt>45.10617229-120.4699739</cmt>
+    <desc>45.10617229-120.4699739</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.109054008498788" lon="-120.47490603290498">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9115R</name>
+    <cmt>45.10905406-120.4749059</cmt>
+    <desc>45.10905406-120.4749059</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.106515968218446" lon="-120.47899698838592">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9155R</name>
+    <cmt>45.10651597-120.4789965</cmt>
+    <desc>45.10651597-120.4789965</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.105273015797138" lon="-120.47978899441659">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9165R</name>
+    <cmt>45.10527321-120.4797885</cmt>
+    <desc>45.10527321-120.4797885</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.102918958291411" lon="-120.48898000270128">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9206R</name>
+    <cmt>45.1029193-120.4889803</cmt>
+    <desc>45.1029193-120.4889803</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.102853998541832" lon="-120.49583396874368">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9256R</name>
+    <cmt>45.10285384-120.4958342</cmt>
+    <desc>45.10285384-120.4958342</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.102339014410973" lon="-120.49700098112226">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9260R</name>
+    <cmt>45.10233931-120.4970007</cmt>
+    <desc>45.10233931-120.4970007</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.101713975891471" lon="-120.4996719583869">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9280R</name>
+    <cmt>45.10171372-120.4996718</cmt>
+    <desc>45.10171372-120.4996718</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.101693021133542" lon="-120.50079102627933">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9282R</name>
+    <cmt>45.10169323-120.5007912</cmt>
+    <desc>45.10169323-120.5007912</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.059205992147326" lon="-120.48896499909461">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9675L</name>
+    <cmt>45.05920615-120.488965</cmt>
+    <desc>45.05920615-120.488965</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.027688024565578" lon="-120.48680297099054">
+    <ele>-0.1143798828125</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>9958R</name>
+    <cmt>45.02768805-120.4868027</cmt>
+    <desc>45.02768805-120.4868027</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.987354893237352" lon="-120.4792551510036">
+    <ele>371.672607421875</ele>
+    <time>2024-03-12T22:30:08Z</time>
+    <name>CL01</name>
+    <cmt>13-MAY-23 12:32:15PM</cmt>
+    <desc>13-MAY-23 12:32:15PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Depth>1.72467653693179e-036</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:Depth>1.72467653693179e-036</wptx1:Depth>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-03-12T22:30:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
